@@ -111,6 +111,6 @@ database/schema.sql
 ## Entregables del curso
 
 - [x] Código fuente
-- [ ] Capturas (servidor, SSMS, Postman por paso)
+- [x] Capturas (servidor, SSMS, Postman por paso)
 - [x] Documentación (este README)
 - [x] Colección Postman
